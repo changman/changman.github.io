@@ -1,6 +1,6 @@
 ---
 cover: .gitbook/assets/_e2ef7703-4772-4f90-ae9a-419d851c3bf4.jpg
-coverY: 0
+coverY: -100.39466666666667
 layout:
   cover:
     visible: true
